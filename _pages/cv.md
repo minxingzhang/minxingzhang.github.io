@@ -19,23 +19,3 @@ Work experience
 * 2020.06 - 2021.01: Research Assistant
   * Shandong University
   * Supervisor: [Zhaochun Ren](http://ir.sdu.edu.cn/~zhaochunren/)
-  
-Skills
-======
-
-
-Publications
-======
-
-  
-Talks
-======
-
-  
-Teaching
-======
-
-  
-Service and leadership
-======
-
