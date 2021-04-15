@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Minxing Zhang, and I'm a PhD candidate in CISPA under the supervision of [Yang Zhang](https://yangzhangalmo.github.io/). My focus is Security and Privacy of Machine Learning now. And I obtained my bachelor in Shandong University (2020) under the supervision of [Zhaochun Ren](http://ir.sdu.edu.cn/~zhaochunren/). Besides, I always like playing basketball!
+Hi! My name is Minxing Zhang, and I'm a PhD candidate in CISPA under the supervision of [Yang Zhang](https://yangzhangalmo.github.io/) and [Michael Backes](https://cispa.de/en/about/director-page). My focus is Security and Privacy of Machine Learning now. And I obtained my bachelor in Shandong University (2020) under the supervision of [Zhaochun Ren](http://ir.sdu.edu.cn/~zhaochunren/). Besides, I always like playing basketball!
