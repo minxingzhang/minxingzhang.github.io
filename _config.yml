@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minxing Zhang / a PhD student"
+title                    : "Minxing Zhang / a PhD candidate"
 title_separator          : "-"
 name                     : &name "Minxing Zhang"
 description              : &description "A PhD candidate at CISPA"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Minxing Zhang"
   avatar           : "minxingzhang.png"
-  bio              : "A PhD Student at CISPA"
+  bio              : "A PhD Candidate at CISPA; \n E-mail: minxing.zhang[at]cispa[dot]de"
   location         : "Saarbrücken, Germany"
   employer         :
   #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wsSLja0AAAAJ&hl=en&oi=ao"
-  email            : "minxing.zhang@cispa.de"
+  # email            : "minxing.zhang@cispa.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
