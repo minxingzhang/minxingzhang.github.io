@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Minxing Zhang"
   avatar           : "minxingzhang.png"
-  bio              : "A PhD Candidate at CISPA; \n E-mail: minxing.zhang[at]cispa[dot]de"
+  bio              : "A PhD Candidate at CISPA; \n\
+                      E-mail: minxing.zhang[at]cispa[dot]de"
   location         : "Saarbrücken, Germany"
   employer         :
   #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
