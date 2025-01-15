@@ -28,6 +28,7 @@ _Looking forward to future collaborations on interesting projects._
 
 ### What's New!
 
+- [01/2025] Our paper titled <a href="https://arxiv.org/abs/2501.06533" target="_blank">DivTrackee versus DynTracker: Promoting Diversity in Anti-Facial Recognition against Dynamic FR Strategy</a> is available online, which explored the privacy game between dynamic FR strategy and diversity-aware AFR-protected facial images.
 - [10/2024] Our paper titled <a href="https://arxiv.org/abs/2310.04539" target="_blank">Generating Less Certain Adversarial Examples Improves Robust Generalization</a> is accepted by <a href="https://jmlr.org/tmlr/" target="_blank">TMLR</a>.
 - [10/2024] Our paper titled <a href="https://arxiv.org/abs/2410.07670" target="_blank">Invisibility Cloak: Disappearance under Human Pose Estimation via Backdoor Attacks</a> is available online, which proposed the first disappearance attack against HPE via backdoor techniques.
 - [08/2024] My <a href="https://github.com/minxingzhang/PGD" target="_blank">implementations of PGD-based adversarial training</a> are available online.
