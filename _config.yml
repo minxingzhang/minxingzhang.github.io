@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minxing Zhang / a PhD candidate"
+title                    : "Minxing Zhang (张敏行) / PhD Candidate at CISPA"
 title_separator          : "-"
-name                     : &name "Minxing Zhang"
+name                     : &name "Minxing Zhang (张敏行)"
 description              : &description "A PhD candidate at CISPA"
 url                      : https://minxingzhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
