@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minxing Zhang (张敏行) / PhD Candidate at CISPA"
+title                    : "Minxing Zhang (张敏行)"
 title_separator          : "-"
 name                     : &name "Minxing Zhang (张敏行)"
 description              : &description "A PhD candidate at CISPA"
