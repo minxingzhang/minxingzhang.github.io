@@ -36,6 +36,8 @@ a { TEXT-DECORATION:none }
 
 (**Bold** for me, <sup>*</sup> for equal contribution)
 
+-------------------------------------
+
 > *Conference*
 
 ### *Generated Distributions Are All You Need for Membership Inference Attacks Against Generative Models*
@@ -47,8 +49,6 @@ IEEE/CVF WACV, 2024
 <a href="https://arxiv.org/abs/2310.19410" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://github.com/minxingzhang/MIAGM" class="btn--code" target="_blank">code</a>
 
--------------------------------------
-
 ### *Membership Inference Attacks Against Recommender Systems*
 
 **Minxing Zhang**, Zhaochun Ren, Zihan Wang, Pengjie Ren, Zhunmin Chen, Pengfei Hu, Yang Zhang
@@ -57,6 +57,8 @@ ACM CCS, 2021
 <a href="https://arxiv.org/pdf/2109.08045" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2109.08045" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://github.com/minxingzhang/MIARS" class="btn--code" target="_blank">code</a>
+
+-------------------------------------
 
 > *Transaction*
 
@@ -69,6 +71,8 @@ TMLR, 2024
 <a href="https://arxiv.org/abs/2310.04539" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://github.com/TrustMLRG/AdvCertainty" class="btn--code" target="_blank">code</a>
 
+-------------------------------------
+
 > *Preprint*
 
 ### *DivTrackee versus DynTracker: Promoting Diversity in Anti-Facial Recognition against Dynamic FR Strategy*
@@ -79,8 +83,6 @@ arXiv, 2025
 <a href="https://arxiv.org/pdf/2501.06533" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2501.06533" class="btn--arxiv" target="_blank">arxiv</a>
 
--------------------------------------
-
 ### *Invisibility Cloak: Disappearance under Human Pose Estimation via Backdoor Attacks*
 
 **Minxing Zhang**, Michael Backes, Xiao Zhang
@@ -88,8 +90,6 @@ arXiv, 2025
 arXiv, 2024
 <a href="https://arxiv.org/pdf/2410.07670" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2410.07670" class="btn--arxiv" target="_blank">arxiv</a>
-
--------------------------------------
 
 ### *Vera Verto: Multimodal Hijacking Attack*
 
