@@ -40,6 +40,14 @@ a { TEXT-DECORATION:none }
 
 > *Conference*
 
+### *DivTrackee versus DynTracker: Promoting Diversity in Anti-Facial Recognition against Dynamic FR Strategy*
+
+Wenshu Fan<sup>*</sup>, **Minxing Zhang**<sup>*</sup>, Hongwei Li, Wenbo Jiang, Hanxiao Chen, Xiangyu Yue, Michael Backes, Xiao Zhang
+
+ACM CCS, 2025
+<a href="https://arxiv.org/pdf/2501.06533" class="btn--paper" target="_blank">pdf</a>
+<a href="https://arxiv.org/abs/2501.06533" class="btn--arxiv" target="_blank">arxiv</a>
+
 ### *Generated Distributions Are All You Need for Membership Inference Attacks Against Generative Models*
 
 **Minxing Zhang**, Ning Yu, Rui Wen, Michael Backes, Yang Zhang
@@ -74,14 +82,6 @@ TMLR, 2024
 -------------------------------------
 
 > *Preprint*
-
-### *DivTrackee versus DynTracker: Promoting Diversity in Anti-Facial Recognition against Dynamic FR Strategy*
-
-Wenshu Fan<sup>*</sup>, **Minxing Zhang**<sup>*</sup>, Hongwei Li, Wenbo Jiang, Hanxiao Chen, Xiangyu Yue, Michael Backes, Xiao Zhang
-
-arXiv, 2025
-<a href="https://arxiv.org/pdf/2501.06533" class="btn--paper" target="_blank">pdf</a>
-<a href="https://arxiv.org/abs/2501.06533" class="btn--arxiv" target="_blank">arxiv</a>
 
 ### *Invisibility Cloak: Disappearance under Human Pose Estimation via Backdoor Attacks*
 
