@@ -18,3 +18,6 @@ redirect_from:
 * 2020.06 - 2021.01: Research Assistant
   * Shandong University
   * Advisor: Zhaochun Ren
+
+### Teaching Assistant
+* Robustness in Machine Learning - WS '23, Saarland University
