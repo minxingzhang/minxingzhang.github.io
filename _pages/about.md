@@ -26,17 +26,10 @@ _Looking forward to future collaborations on interesting projects._
 
 ---
 
-### What's New!
+### Selected Publications
 
-- [04/2025] Our TMLR paper titled <a href="https://arxiv.org/abs/2310.04539" target="_blank">Generating Less Certain Adversarial Examples Improves Robust Generalization</a> is invited by ICLR 2025 to present our work in the session of <a href="https://iclr.cc/virtual/2025/poster/31455" target="_blank">poster</a>.
-- [01/2025] Our paper titled <a href="https://arxiv.org/abs/2501.06533" target="_blank">DivTrackee versus DynTracker: Promoting Diversity in Anti-Facial Recognition against Dynamic FR Strategy</a> is available online, which explored the privacy game between dynamic FR strategy and diversity-aware AFR-protected facial images.
-- [10/2024] Our paper titled <a href="https://arxiv.org/abs/2310.04539" target="_blank">Generating Less Certain Adversarial Examples Improves Robust Generalization</a> is accepted by <a href="https://jmlr.org/tmlr/" target="_blank">TMLR</a>.
-- [10/2024] Our paper titled <a href="https://arxiv.org/abs/2410.07670" target="_blank">Invisibility Cloak: Disappearance under Human Pose Estimation via Backdoor Attacks</a> is available online, which proposed the first disappearance attack against HPE via backdoor techniques.
-- [08/2024] My <a href="https://github.com/minxingzhang/PGD" target="_blank">implementations of PGD-based adversarial training</a> are available online.
-- [08/2024] Our paper titled <a href="https://arxiv.org/abs/2408.00129" target="_blank">Vera Verto: Multimodal Hijacking Attack</a> is available online, which hijacks a CV victim model to implement the adversary's own NLP task with stealthiness.
-- [10/2023] Our paper titled <a href="https://ieeexplore.ieee.org/document/10484149" target="_blank">Generated Distributions Are All You Need for Membership Inference Attacks Against Generative Models</a> is accepted by <a href="https://wacv2024.thecvf.com/" target="_blank">IEEE/CVF WACV2024</a>.
-- [10/2023] Our paper titled <a href="https://arxiv.org/abs/2310.04539" target="_blank">Generating Less Certain Adversarial Examples Improves Robust Generalization</a> is available online, which proposes to improve robust generalization by our novel definition _Adversarial Certainty_.
-- [10/2022] Start my PhD study at CISPA.
-- [09/2021] Our paper titled <a href="https://dl.acm.org/doi/10.1145/3460120.3484770" target="_blank">Membership Inference Attacks Against Recommender Systems</a> is accepted by <a href="https://www.sigsac.org/ccs/CCS2021/" target="_blank">ACM CCS 2021</a>.
-- [05/2021] Join CISPA as a preparatory-phase student.
-- [06/2020] Obtain my bachelor's degree from Shandong University.
+- [05/2025] <a href="https://arxiv.org/abs/2501.06533" target="_blank">Our paper</a> is accepted by ACM CCS 2025.
+- [04/2025] <a href="https://arxiv.org/abs/2310.04539" target="_blank">Our TMLR paper</a> is invited by ICLR 2025 for presentation in the session of <a href="https://iclr.cc/virtual/2025/poster/31455" target="_blank">poster</a>.
+- [10/2024] <a href="https://arxiv.org/abs/2310.04539" target="_blank">Our paper</a> is accepted by <a href="https://jmlr.org/tmlr/" target="_blank">TMLR</a>.
+- [10/2023] <a href="https://ieeexplore.ieee.org/document/10484149" target="_blank">Our paper</a> is accepted by <a href="https://wacv2024.thecvf.com/" target="_blank">IEEE/CVF WACV2024</a>.
+- [09/2021] <a href="https://dl.acm.org/doi/10.1145/3460120.3484770" target="_blank">Our paper</a> is accepted by ACM CCS 2021.
