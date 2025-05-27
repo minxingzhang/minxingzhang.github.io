@@ -28,8 +28,8 @@ _Looking forward to future collaborations on interesting projects._
 
 ### Selected Publications
 
-- [05/2025] <a href="https://arxiv.org/abs/2501.06533" target="_blank">Our paper</a> is accepted by ACM CCS 2025.
-- [04/2025] <a href="https://iclr.cc/virtual/2025/poster/31455" target="_blank">Our TMLR paper</a> is invited by ICLR 2025 for presentation.
-- [10/2024] <a href="https://arxiv.org/abs/2310.04539" target="_blank">Our paper</a> is accepted by TMLR.
-- [10/2023] <a href="https://ieeexplore.ieee.org/document/10484149" target="_blank">Our paper</a> is accepted by IEEE/CVF WACV2024.
-- [09/2021] <a href="https://dl.acm.org/doi/10.1145/3460120.3484770" target="_blank">Our paper</a> is accepted by ACM CCS 2021.
+- [05/2025] One paper was accepted by ACM CCS 2025.
+- [04/2025] Our TMLR paper was invited by ICLR 2025 for presentation.
+- [10/2024] One paper was accepted by TMLR.
+- [10/2023] One paper was accepted by IEEE/CVF WACV2024.
+- [09/2021] Our paper was accepted by ACM CCS 2021.
