@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! This is Minxing Zhang (张敏行), and I'm a PhD candidate at <a href="https://cispa.de/en" target="_blank">CISPA</a> supervised by <a href="https://michaelbackes.eu/" target="_blank">Michael Backes</a> and <a href="https://xiao-zhang.net/" target="_blank">Xiao Zhang</a>. I obtained my B.S. degree in Computer Science and Technology from <a href="https://www.sdu.edu.cn/" target="_blank">Shandong University</a> (2020) advised by <a href="https://renzhaochun.github.io/" target="_blank">Zhaochun Ren</a>.
+Hi! This is Minxing Zhang (张敏行), and I'm a PhD candidate at <a href="https://cispa.de/en" target="_blank">CISPA</a> supervised by <a href="https://michaelbackes.eu/" target="_blank">Prof. Michael Backes</a> and advised by <a href="https://xiao-zhang.net/" target="_blank">Dr. Xiao Zhang</a>. I obtained my B.S. degree in Computer Science and Technology from <a href="https://www.sdu.edu.cn/" target="_blank">Shandong University</a> (2020) advised by <a href="https://renzhaochun.github.io/" target="_blank">Prof. Zhaochun Ren</a>.
 
-My CV is available [here](CV.pdf).
+My CV can be found [here](CV.pdf).
 
 ---
 
@@ -22,7 +22,7 @@ _Looking forward to future collaborations on interesting projects._
 ### Research Interests
 
 - Trustworthy Machine Learning
-- Privacy and  Security in AI
+- Privacy and Security in AI
 
 ---
 
