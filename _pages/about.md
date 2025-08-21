@@ -26,7 +26,7 @@ _Looking forward to future collaborations on interesting projects._
 
 ---
 
-### Selected Publications
+### News
 
 - [05/2025] One paper was accepted by ACM CCS 2025.
 - [04/2025] Our TMLR paper was invited by ICLR 2025 for presentation.
