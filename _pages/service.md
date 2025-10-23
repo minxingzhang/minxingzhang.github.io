@@ -9,6 +9,9 @@ redirect_from:
 
 -------------------------------------
 
+### TPC Member / Reviewer
+- ACM International Conference on Multimedia (MM)
+
 ### External Reviewer
 - Transactions on Machine Learning Research (TMLR)
 - ACM Conference on Computer and Communications Security (CCS)
