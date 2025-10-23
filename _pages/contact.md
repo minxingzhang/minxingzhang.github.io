@@ -9,5 +9,5 @@ redirect_from:
 
 -------------------------------------
 
-Please feel free to contact me (minxing.zhang(at)cispa(dot)de),
-if you are interested in my research domains or are willing to collaborate with me ;)
+If you are interested in my research, please feel free to contact me.
+* E-mail: minxing(dot)zhang(at)cispa(dot)de
