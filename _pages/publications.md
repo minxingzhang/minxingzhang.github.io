@@ -44,9 +44,11 @@ a { TEXT-DECORATION:none }
 
 Wenshu Fan<sup>*</sup>, **Minxing Zhang**<sup>*</sup>, Hongwei Li, Wenbo Jiang, Hanxiao Chen, Xiangyu Yue, Michael Backes, Xiao Zhang
 
-ACM CCS, 2025 (__Distinguished Paper__)
+ACM CCS, 2025
 <a href="https://arxiv.org/pdf/2501.06533" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2501.06533" class="btn--arxiv" target="_blank">arxiv</a>
+
+(Was awarded as the <a href="https://www.sigsac.org/ccs/CCS2025/awards/" target="_blank">Distinguished Paper</a>.)
 
 ### *Generated Distributions Are All You Need for Membership Inference Attacks Against Generative Models*
 
@@ -79,7 +81,7 @@ TMLR, 2024
 <a href="https://arxiv.org/abs/2310.04539" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://github.com/TrustMLRG/AdvCertainty" class="btn--code" target="_blank">code</a>
 
-(Invited to ICLR 2025 for presentation as a <a href="https://iclr.cc/virtual/2025/poster/31455" target="_blank">poster</a>.)
+(Invited to __ICLR__ 2025 for presentation as a <a href="https://iclr.cc/virtual/2025/poster/31455" target="_blank">poster</a>.)
 
 -------------------------------------
 
