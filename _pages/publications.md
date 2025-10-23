@@ -44,7 +44,7 @@ a { TEXT-DECORATION:none }
 
 Wenshu Fan<sup>*</sup>, **Minxing Zhang**<sup>*</sup>, Hongwei Li, Wenbo Jiang, Hanxiao Chen, Xiangyu Yue, Michael Backes, Xiao Zhang
 
-ACM CCS, 2025
+ACM CCS, 2025 (__Distinguished Paper__)
 <a href="https://arxiv.org/pdf/2501.06533" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2501.06533" class="btn--arxiv" target="_blank">arxiv</a>
 
