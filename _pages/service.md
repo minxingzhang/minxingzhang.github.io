@@ -12,6 +12,7 @@ redirect_from:
 ### TPC Member / Reviewer (in alphabetical order by abbreviation)
 - ACM International Conference on Multimedia (MM) 2025
 
+<!--
 ### External Reviewer
 - Transactions on Machine Learning Research (TMLR)
 - ACM Conference on Computer and Communications Security (CCS)
@@ -19,3 +20,4 @@ redirect_from:
 - ACM ASIA Conference on Computer and Communications Security (ASIACCS)
 - Privacy Enhancing Technologies Symposium (PETS)
 - Privacy Preserving Machine Learning (PPML)
+-->
