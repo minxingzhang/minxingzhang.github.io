@@ -28,6 +28,7 @@ _Looking forward to future collaborations on interesting projects._
 
 ### News
 
+- [10/2025] One paper was awarded as the distinguished paper by ACM CCS 2025.
 - [05/2025] One paper was accepted by ACM CCS 2025.
 - [04/2025] Our TMLR paper was invited by ICLR 2025 for presentation.
 - [10/2024] One paper was accepted by TMLR.
