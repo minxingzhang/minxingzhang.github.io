@@ -18,5 +18,5 @@ main:
   - title: "Experience"
     url: /experience/
     
-  #- title: "Contact"
-  # url: /contact/
+  - title: "Contact"
+  url: /contact/
