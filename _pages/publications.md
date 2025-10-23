@@ -32,6 +32,14 @@ text-align: center;
 border-radius: 4px;
 a { TEXT-DECORATION:none }
 }
+.btn--award {
+color: white;
+background-color: TOMATO;
+padding: 1px 3px;
+text-align: center;
+border-radius: 4px;
+a { TEXT-DECORATION:none }
+}
 </style>
 
 (**Bold** for me, <sup>*</sup> for equal contribution)
@@ -48,7 +56,7 @@ ACM CCS, 2025
 <a href="https://arxiv.org/pdf/2501.06533" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2501.06533" class="btn--arxiv" target="_blank">arxiv</a>
 
-(Was awarded as the <a href="https://www.sigsac.org/ccs/CCS2025/awards/" target="_blank">Distinguished Paper</a>.)
+<a href="h[ttps://arxiv.org/abs/2501.06533](https://www.sigsac.org/ccs/CCS2025/awards/)" class="btn--award" target="_blank">Distinguished Paper Award</a>
 
 ### *Generated Distributions Are All You Need for Membership Inference Attacks Against Generative Models*
 
