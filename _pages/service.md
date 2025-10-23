@@ -9,8 +9,8 @@ redirect_from:
 
 -------------------------------------
 
-### TPC Member / Reviewer
-- ACM International Conference on Multimedia (MM)
+### TPC Member / Reviewer (in alphabetical order by abbreviation)
+- ACM International Conference on Multimedia (MM) 2025
 
 ### External Reviewer
 - Transactions on Machine Learning Research (TMLR)
