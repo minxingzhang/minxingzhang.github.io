@@ -15,6 +15,7 @@ My CV can be found [here](CV.pdf).
 ---
 
 _Happy that I have worked with many intelligent researchers._
+
 _Looking forward to future collaborations on interesting projects._
 
 ---
