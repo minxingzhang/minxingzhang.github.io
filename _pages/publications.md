@@ -52,7 +52,7 @@ a { TEXT-DECORATION:none }
 
 Wenshu Fan<sup>*</sup>, **Minxing Zhang**<sup>*</sup>, Hongwei Li, Wenbo Jiang, Hanxiao Chen, Xiangyu Yue, Michael Backes, Xiao Zhang
 
-ACM CCS
+ACM CCS, 2025
 <a href="https://arxiv.org/pdf/2501.06533" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2501.06533" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://github.com/fiora6/divtrackee" class="btn--code" target="_blank">code</a>
@@ -63,7 +63,7 @@ ACM CCS
 
 **Minxing Zhang**, Michael Backes, Xiao Zhang
 
-ICLR
+ICLR, 2025
 <a href="https://arxiv.org/pdf/2310.04539" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2310.04539" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://github.com/TrustMLRG/AdvCertainty" class="btn--code" target="_blank">code</a>
@@ -86,7 +86,7 @@ arXiv
 
 **Minxing Zhang**, Ning Yu, Rui Wen, Michael Backes, Yang Zhang
 
-IEEE/CVF WACV
+IEEE/CVF WACV, 2024
 <a href="https://arxiv.org/pdf/2310.19410" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2310.19410" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://github.com/minxingzhang/MIAGM" class="btn--code" target="_blank">code</a>
@@ -95,7 +95,7 @@ IEEE/CVF WACV
 
 **Minxing Zhang**, Michael Backes, Xiao Zhang
 
-TMLR
+TMLR, 2024
 <a href="https://arxiv.org/pdf/2310.04539" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2310.04539" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://github.com/TrustMLRG/AdvCertainty" class="btn--code" target="_blank">code</a>
@@ -114,7 +114,7 @@ arXiv
 
 **Minxing Zhang**<sup>*</sup>, Zhaochun Ren<sup>*</sup>, Zihan Wang<sup>*</sup>, Pengjie Ren, Zhunmin Chen, Pengfei Hu, Yang Zhang
 
-ACM CCS
+ACM CCS, 2021
 <a href="https://arxiv.org/pdf/2109.08045" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2109.08045" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://github.com/minxingzhang/MIARS" class="btn--code" target="_blank">code</a>
