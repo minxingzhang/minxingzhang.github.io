@@ -10,7 +10,7 @@ main:
   #   url: /teaching/    
 
   - title: "CV"
-    url: /https://minxingzhang.github.io/_pages/CV.pdf//
+    url: /_pages/CV.pdf/
     
   - title: "Service"
     url: /service/
