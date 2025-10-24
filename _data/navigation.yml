@@ -10,7 +10,7 @@ main:
   #   url: /teaching/    
 
   - title: "CV"
-    url: /CV.pdf/
+    url: /CV.pdf
     
   - title: "Service"
     url: /service/
