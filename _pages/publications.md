@@ -112,7 +112,7 @@ arXiv
 
 ### *Membership Inference Attacks Against Recommender Systems*
 
-**Minxing Zhang**<sup>*</sup>, Zhaochun Ren<sup>*</sup>, Zihan Wang<sup>*</sup>, Pengjie Ren, Zhunmin Chen, Pengfei Hu, Yang Zhang
+**Minxing Zhang**, Zhaochun Ren, Zihan Wang, Pengjie Ren, Zhunmin Chen, Pengfei Hu, Yang Zhang
 
 ACM CCS, 2021
 <a href="https://arxiv.org/pdf/2109.08045" class="btn--paper" target="_blank">pdf</a>
