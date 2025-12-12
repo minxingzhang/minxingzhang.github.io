@@ -11,9 +11,9 @@ redirect_from:
 
 ### TPC Member / Reviewer (in alphabetical order by abbreviation)
 - __2026__
-  - IEEE European Symposium on Security and Privacy (Euro S&P) 2026
+  - IEEE European Symposium on Security and Privacy (_Euro S&P_)
 - __2025__
-  - ACM International Conference on Multimedia (MM) 2025
+  - ACM International Conference on Multimedia (_MM_)
 
 <!--
 ### External Reviewer
