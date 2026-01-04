@@ -100,6 +100,8 @@ TMLR, 2024
 <a href="https://arxiv.org/abs/2310.04539" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://github.com/TrustMLRG/AdvCertainty" class="btn--code" target="_blank">code</a>
 
+<a href="https://openreview.net/pdf?id=MMtK0kUML7" class="btn--award" target="_blank">J2C Certificate</a>
+
 ### *Vera Verto: Multimodal Hijacking Attack*
 
 **Minxing Zhang**, Ahmed Salem, Michael Backes, Yang Zhang
