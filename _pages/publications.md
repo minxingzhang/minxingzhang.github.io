@@ -50,7 +50,7 @@ a { TEXT-DECORATION:none }
 
 ### *DivTrackee versus DynTracker: Promoting Diversity in Anti-Facial Recognition against Dynamic FR Strategy*
 
-Wenshu Fan<sup>*</sup>, **Minxing Zhang**<sup>*</sup>, Hongwei Li, Wenbo Jiang, Hanxiao Chen, Xiangyu Yue, Michael Backes, Xiao Zhang
+Wenshu Fan, **Minxing Zhang**<sup>*</sup>, Hongwei Li, Wenbo Jiang, Hanxiao Chen, Xiangyu Yue, Michael Backes, Xiao Zhang
 
 ACM CCS, 2025
 <a href="https://arxiv.org/pdf/2501.06533" class="btn--paper" target="_blank">pdf</a>
