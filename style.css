@@ -11,7 +11,7 @@
   --radius: 14px;
   --shadow: 0 1px 0 rgba(17,24,39,.06);
 }
-
+/* 
 /* unvisited link */
 a:link {
   color: black;
@@ -30,7 +30,7 @@ a:hover {
 /* selected link */
 a:active {
   color: black;
-}
+} */
 
 *{ box-sizing: border-box; }
 html{ scroll-behavior: smooth; }
