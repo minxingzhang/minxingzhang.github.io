@@ -80,6 +80,12 @@ body{
   background: var(--card);
 }
 
+/* 你的“Home/姓名”那一项 */
+.myhome a{
+  color: var(--link);
+  text-decoration: none;
+}
+
 /* ========== 正文 ========== */
 .main{ padding: 26px 0 40px; }
 .section{ padding: 22px 0; border-bottom: 1px solid var(--border); }
@@ -237,7 +243,7 @@ img { max-width: 100%; height: auto; }
 
 /* 桌面端：导航一行 + 按钮隐藏 */
 @media (min-width: 860px){
-  .container { width: 90%; }
+  /* .container { width: 90%; } */
   .header-grid{
     grid-template-columns: 1.2fr 1fr;
     align-items: center;
@@ -245,7 +251,12 @@ img { max-width: 100%; height: auto; }
   .cards{ grid-template-columns: repeat(3, 1fr); }
   .contact-grid{ grid-template-columns: repeat(3, 1fr); }
 
-  .myhome,
+  .myhome{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
   .nav{
     display: flex;
     flex-wrap: nowrap;          /* 不允许换行 */
@@ -279,6 +290,15 @@ img { max-width: 100%; height: auto; }
 
   .myhome{
     display: flex;
+    min-width: 0;
+  }
+  .myhome a{
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis; /* 名字太长自动省略 */
+    max-width: 100%;
+    padding: 6px 0;
   }
 
   .nav-button{
@@ -316,7 +336,6 @@ img { max-width: 100%; height: auto; }
   .nav-button-text{ font-size: 14px; }
 
   /* 移动端默认隐藏导航 */
-  .myhome,
   .nav{
     grid-column: 1 / -1;        /* 展开后占满整行 */
     display: none;
@@ -335,7 +354,6 @@ img { max-width: 100%; height: auto; }
   }
 
   /* 菜单项更像“列表” */
-  .myhome a,
   .nav a{
     padding: 10px 10px;
     border: 1px solid var(--border, #e5e7eb);
