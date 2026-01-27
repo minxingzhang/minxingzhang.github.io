@@ -212,6 +212,14 @@ text-align: center;
 border-radius: 4px;
 a { TEXT-DECORATION:none }
 }
+.btn--talk {
+color: white;
+background-color: #DB7093;
+padding: 1px 3px;
+text-align: center;
+border-radius: 4px;
+a { TEXT-DECORATION:none }
+}
 
 .news-box{
   max-height: 220px;        /* 控制“显示多少条” */
