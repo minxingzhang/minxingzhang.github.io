@@ -197,7 +197,7 @@ p{ margin: 0 0 12px; }
 
 /* ========== 响应式：宽屏更舒服 ========== */
 @media (min-width: 860px){
-  .container { width: 100%; }
+  .container { width: 90%; }
   .header-grid{
     grid-template-columns: 1.2fr 1fr;
     align-items: center;
